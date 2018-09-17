@@ -1,0 +1,127 @@
+{
+    "nysldata": {
+        "teams": [{
+            "id": "U1",
+            "name": "fc barcelona",
+            "dt": "emilio butragueño",
+            "players": 25,
+            "direction": " street battle of belchite 16 1b"
+        }, {
+            "id": "U2",
+            "name": "real madrid fc",
+            "dt": "max power",
+            "players": 25,
+            "direction": " street princess 3 1-right"
+        }, {
+            "id": "U3",
+            "name": "fc ciclones",
+            "dt": "florentino perez",
+            "players": 15,
+            "direction": " street battle of salado 16 1b"
+        }, {
+            "id": "U4",
+            "name": "fc medellin",
+            "dt": "smith anderson",
+            "players": 15,
+            "direction": "plaza castilla 5"
+        }, {
+            "id": "U5",
+            "name": "fc valencia",
+            "dt": "robert klein",
+            "players": 15,
+            "direction": "calle espiritu santo 13"
+        }, {
+            "id": "U6",
+            "name": "fc vallecas",
+            "dt": "jeff besos",
+            "players": 15,
+            "direction": " street battle of belchite 16 1b"
+        }],
+        "machtes": [{
+            "date": "september 1",
+            "teamsvs": "U1 and U4",
+            "location": "Greenbay",
+            "time": "9:30 a.m."
+        }, {
+            "date": "september 1",
+            "teamsvs": "U3 and U4",
+            "location": "AJ Katzenmaier",
+            "time": "1:00 p.m."
+        }, {
+            "date": "september 8",
+            "teamsvs": "U5 and U6",
+            "location": "Howard A Yeager",
+            "time": "9:30 a.m."
+        }, {
+            "date": "september 8",
+            "teamsvs": "U1 and U6",
+            "location": "Marjorie P Hart",
+            "time": "1:00 p.m."
+        }, {
+            "date": "september 15",
+            "teamsvs": "U2 and U4",
+            "location": "North",
+            "time": "9:30 a.m."
+        }, {
+            "date": "september 15",
+            "teamsvs": "U3 and U5",
+            "location": "AJ Katzenmaier",
+            "time": "1:00 p.m."
+        }, {
+            "date": "september 22",
+            "teamsvs": "U3 and U1",
+            "location": "South",
+            "time": "9:30 a.m."
+        }, {
+            "date": "september 22",
+            "teamsvs": "U2 and U6",
+            "location": "Howard A Yeager",
+            "time": "1:00 p.m."
+        }, {
+            "date": "september 22",
+            "teamsvs": "U4 and U5",
+            "location": "Greenbay",
+            "time": "9:30 a.m."
+        }, {
+            "date": "octuber 06",
+            "teamsvs": "U2 and U5",
+            "location": "Marjorie P Hart",
+            "time": "9:30 a.m."
+        }, {
+            "date": "octuber 06",
+            "teamsvs": "U1 and U6",
+            "location": "South",
+            "time": "1:00 p.m."
+        }, {
+            "date": "octuber 08",
+            "teamsvs": "U3 and U4",
+            "location": "Howard A Yeager",
+            "time": "9:30 a.m."
+        }, {
+            "date": "octuber 08",
+            "teamsvs": "U5 and U1",
+            "location": "Greenbay",
+            "time": "1:00 p.m."
+        }, {
+            "date": "octuber 20",
+            "teamsvs": "U6 and U3",
+            "location": "North",
+            "time": "9:30 a.m."
+        }, {
+            "date": "octuber 08",
+            "teamsvs": "U2 and U4",
+            "location": "Marjorie P Hart",
+            "time": "1:00 p.m."
+        }, {
+            "date": "octuber 27",
+            "teamsvs": "U3 and U1",
+            "location": "AJ Katzenmaier",
+            "time": "9:30 a.m."
+        }, {
+            "date": "octuber 27",
+            "teamsvs": "U5 and U6",
+            "location": "Howard A Yeager",
+            "time": "1:00 p.m."
+        }]
+    }
+}

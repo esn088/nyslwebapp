@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Game</title>
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" /> <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /> 
+    <link rel="icon" type="image/png" href="/imágenes/mifavicon.png" />
+</head>
+
+<body>
+
+
+
+    <div class="container1" id="app">
+
+        <div class="item1">
+            <div class="contenedorimg"><img src="logo1x.png"></div>
+        </div>
+
+
+        <div class="title">
+            <h1>welcome</h1>
+        </div>
+
+        <div class="login">
+
+            <form action="home.html">
+                <label for="fname">UserName</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+                <label for="lname">Password</label>
+                <input type="text" id="lname" name="lastname">
+                <input type="submit" value="login">
+
+            </form>
+            <p>Register Now. click <a href="home.html">Here</a></p>
+        </div>
+    </div>
+
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.0/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyAOJKIgnHbpT_GfarOP_WInnfRDDi0g4u4",
+            authDomain: "nyslapp3.firebaseapp.com",
+            databaseURL: "https://nyslapp3.firebaseio.com",
+            projectId: "nyslapp3",
+            storageBucket: "nyslapp3.appspot.com",
+            messagingSenderId: "849008490375"
+        };
+        firebase.initializeApp(config);
+
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
